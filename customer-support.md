@@ -29,3 +29,9 @@ Cynthia
 - Customer service
 - Clear written communication
 - Appropriate escalation
+
+Tools Used
+
+* Microsoft Word
+* Google Docs
+* ChatGPT
