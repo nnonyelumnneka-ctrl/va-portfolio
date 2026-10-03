@@ -53,3 +53,11 @@ Cynthia
 - Follow-up
 - Attention to detail
 - Professional communication
+
+- Tools Used
+
+* Google Calendar
+* Google Docs
+* Microsoft Word
+* Zoom
+* Google Meet
