@@ -70,3 +70,13 @@ I then edit the response where necessary before presenting the final version.
 - Professional communication
 - Research assistance
 - Content creation
+- 
+
+Tools Used
+
+* ChatGPT
+* Canva
+* Google Docs
+* Microsoft word
+* Gemini
+
