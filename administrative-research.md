@@ -45,3 +45,10 @@ Before selecting a supplier, the business should confirm current prices, availab
 - Written communication
 - Critical thinking
 - Administrative support
+
+-  Tools Used
+
+* Google Search
+* Google Docs
+* Microsoft Word
+* ChatGPT
