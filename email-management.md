@@ -67,3 +67,11 @@ Cynthia
 - Attention to detail
 - Follow-up management
 - Administrative support
+
+
+Tools Used
+
+* Gmail
+* Google Docs
+* Microsoft Word
+* ChatGPT
