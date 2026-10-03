@@ -1,6 +1,6 @@
 # Cynthia Nnonyelum
 
-## Virtual Assistant | Customer Support | Administrative Support
+## Virtual Assistant | Customer Support | Administrative Support | Content & Visual Support
 
 Welcome to my portfolio.
 
