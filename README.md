@@ -40,5 +40,7 @@ Sample research and information-organizing projects.
 
 ## Contact
 
+Email:nnonyelumnneka@gmail.com
+contact number: +2347069498012
 Available for remote Virtual Assistant, Customer Support and Administrative Assistant opportunities.
 My Virtual Assistant and Customer Support Portfolio
