@@ -23,6 +23,7 @@ I am a Virtual Assistant with skills in customer support, email management, data
 - Slack
 - Zoom
 - Microsoft Teams
+- Generative Ai
 
 ## Portfolio Projects
 
