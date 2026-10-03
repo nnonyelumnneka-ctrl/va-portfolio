@@ -40,3 +40,12 @@ The information included customer names, contact details, order status, and paym
 - Record keeping
 - Spreadsheet management
 - Administrative support
+- 
+
+Tools Used
+
+* Microsoft Excel
+* Google Sheets
+* Google Docs
+* Microsoft Word
+
